@@ -1,0 +1,39 @@
+{
+    "singers": [
+        {
+            "singer_name": "周杰倫",
+            "singer_pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000025NhlN2yWrP4.webp",
+            "other_name": "Jay Chou",
+            "singer_id": 4558,
+            "id": 1
+        },
+        {
+            "singer_name": "林俊傑",
+            "singer_pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001BLpXF2DyJe2.webp",
+            "other_name": "JJ Lin",
+            "singer_id": 4286,
+            "id": 2
+        },
+        {
+            "singer_name": "G.E.M.",
+            "singer_pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.webp",
+            "other_name": "Jay Chou",
+            "singer_id": 4558,
+            "id": 3
+        },
+        {
+            "singer_name": "G.E.M.2",
+            "singer_pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.webp",
+            "other_name": "Jay Chou",
+            "singer_id": 4559,
+            "id": 4
+        },
+        {
+            "singer_name": "G.E.M.3",
+            "singer_pic": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.webp",
+            "other_name": "Jay Chou",
+            "singer_id": 4560,
+            "id": 5
+        }
+    ]
+}
